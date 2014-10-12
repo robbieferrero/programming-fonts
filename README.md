@@ -37,7 +37,7 @@ A collecton of downloadable fonts ideal for programming.
 * [Raize](http://www.raize.com/DevTools/Tools/RzFont.asp)
 * [Source Code Pro](http://sourceforge.net/projects/sourcecodepro.adobe/)
 * [Terminus](http://terminus-font.sourceforge.net/)
-* [ti92pluspc](http://www.ufonts.com/fonts/ti92pluspc.html)
+* [ti92pluspc](https://github.com/sterpe/ti92plus)
 * [Triskweline](http://www.dafont.com/triskweline.font)
 * [Ubuntu Mono](http://font.ubuntu.com/)
 * [Unifont](http://unifoundry.com/unifont.html)
