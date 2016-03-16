@@ -35,7 +35,7 @@ A collecton of downloadable fonts ideal for programming.
 * [Proggy](http://www.proggyfonts.com/index.php?menu=download)
 * [PT Mono](http://www.google.com/fonts/specimen/PT+Mono)
 * [Raize](http://www.raize.com/DevTools/Tools/RzFont.asp)
-* [Source Code Pro](http://sourceforge.net/projects/sourcecodepro.adobe/)
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 * [Terminus](http://terminus-font.sourceforge.net/)
 * [ti92pluspc](https://github.com/sterpe/ti92plus)
 * [Triskweline](http://www.dafont.com/triskweline.font)
