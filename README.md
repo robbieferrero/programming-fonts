@@ -25,6 +25,7 @@ A collecton of downloadable fonts ideal for programming.
 * [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com/)
 * [Liberation Mono](http://www.fontsquirrel.com/fonts/Liberation-Mono)
+* [Losevka](https://github.com/be5invis/Iosevka)
 * [M+](http://www.macwright.org/2014/07/09/mplus.html)
 * [Meslo LG](https://github.com/andreberg/Meslo-Font)
 * [Monofur](http://www.dafont.com/monofur.font)
